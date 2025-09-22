@@ -7,6 +7,7 @@ public class Main {
     // this is me 
     // Hi
     // welcome
+    // new line
 
     public static final String RED_COLOR = "\033[91m";
     public static final String ENDC = "\033[0m";
